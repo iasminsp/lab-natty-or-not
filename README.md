@@ -14,6 +14,8 @@ Usei o Bing Image Creator para gerar uma imagem que transmitisse delicadeza e te
 🚀 Resultados
 Uma imagem harmônica que representa a união entre criatividade e lógica.
 Um conceito visual que pode ser expandido para outros formatos (posts, apresentações, capas de projetos).
+![_e56f608d-5d83-4b1d-95dc-41347dc72167](https://github.com/user-attachments/assets/27966966-ed74-4d29-a0be-794f542df4c0)
+
 
 💭 Reflexão
 Criar algo “natty” com IA mostrou que a estética está nos detalhes e na intenção por trás da criação.
